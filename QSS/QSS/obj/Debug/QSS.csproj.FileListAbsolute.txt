@@ -1,0 +1,64 @@
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe.config
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.pdb
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.exe
+D:\School\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.pdb
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe.config
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.exe
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.pdb
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.pdb
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+D:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe.config
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.exe
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.pdb
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.pdb
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+E:\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe.config
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.pdb
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csproj.CoreCompileInputs.cache
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.exe
+E:\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.pdb
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe.config
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.exe
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.pdb
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.exe
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\bin\Debug\QSS.pdb
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+D:\Backup_USB\Oud\Julian\Files\School\Programmeren\Sem 5\Lubbers_Julian\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\bin\Debug\QSS.exe.config
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\obj\Debug\QSS.exe
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\obj\Debug\QSS.pdb
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\bin\Debug\QSS.exe
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\bin\Debug\QSS.pdb
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+\\STOR01\gebruikersdata\mvossen\Desktop\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\bin\Debug\QSS.exe.config
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\obj\Debug\QSS.exe
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\obj\Debug\QSS.pdb
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\bin\Debug\QSS.exe
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\bin\Debug\QSS.pdb
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\obj\Debug\QSS.csprojResolveAssemblyReference.cache
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\obj\Debug\QSS.Properties.Resources.resources
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\obj\Debug\QSS.Quicksort.resources
+\\STOR01\gebruikersdata\akacharava\Desktop\QSS\QSS\obj\Debug\QSS.csproj.GenerateResource.Cache
